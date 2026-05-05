@@ -19,6 +19,7 @@ I am a results-oriented tech enthusiast with a dual focus: building functional, 
 - **LinkedIn:** [My Profile](https://www.linkedin.com/in/maximo-ambrosino-bb12041bb/)
 - **Email:** [Maximoambrosino5@gmail.com](mailto:Maximoambrosino5@gmail.com)
 - **WhatsApp/Phone:** [+54 9 341 5851003](https://wa.me/5493415851003)
+- **Protfolio** https://maximoambro.github.io/portfolio/
 -------------------------------------------------------------------------------------------
 
 # ¡Hola! Soy Máximo Tomas Ambrosino 👋
@@ -40,5 +41,8 @@ Soy un entusiasta de la tecnología orientado a resultados, con un enfoque dual:
 
 ### 📫 Contacto:
 - **LinkedIn:** [Mi Perfil](https://www.linkedin.com/in/maximo-ambrosino-bb12041bb/)
+- **Email:** [Maximoambrosino5@gmail.com](mailto:Maximoambrosino5@gmail.com)
+- **WhatsApp/Telefono:** [+54 9 341 5851003](https://wa.me/5493415851003)
+- **Protfolio** https://maximoambro.github.io/portfolio/
 - **Email:** [Maximoambrosino5@gmail.com](mailto:Maximoambrosino5@gmail.com)
 - **WhatsApp/Teléfono:** [+54 9 341 5851003](https://wa.me/5493415851003)# portfolio
