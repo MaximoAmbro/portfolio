@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Portfolio – Frontend Developer</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background: #f5f5f5;
+    }
+
+    .hero {
+      min-height: 100vh;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+    }
+
+    .hero-left {
+      background: #4b36d3;
+      color: #e8ff6a;
+      padding: 80px 70px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+
+    .logo {
+      font-weight: 700;
+      color: #e8ff6a;
+      margin-bottom: 80px;
+      font-size: 18px;
+    }
+
+    .hero-left h1 {
+      font-size: 56px;
+      line-height: 1.1;
+      margin-bottom: 24px;
+    }
+
+    .hero-left h1 span {
+      color: #ffffff;
+    }
+
+    .hero-left p {
+      color: #ffffff;
+      max-width: 420px;
+      margin-bottom: 48px;
+      font-size: 16px;
+      line-height: 1.6;
+    }
+
+    .stats {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 32px;
+      font-size: 14px;
+      color: #ffffff;
+      opacity: 0.85;
+    }
+
+    .hero-right {
+      background: #d9ff6a;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+    }
+
+    .profile-card {
+      background: #ffffff;
+      padding: 16px;
+      border-radius: 8px;
+      box-shadow: 0 20px 40px rgba(0,0,0,0.15);
+    }
+
+    .profile-card img {
+      width: 260px;
+      height: auto;
+      border-radius: 6px;
+      display: block;
+    }
+
+    @media (max-width: 900px) {
+      .hero {
+        grid-template-columns: 1fr;
+      }
+
+      .hero-left, .hero-right {
+        padding: 48px 32px;
+      }
+
+      .hero-left h1 {
+        font-size: 42px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <section class="hero">
+    <div class="hero-left">
+      <div class="logo">olaolu</div>
+
+      <h1>Frontend<br><span>Developer.</span></h1>
+
+      <p>
+        Me gusta crear productos frontend sólidos y escalables
+        con excelentes experiencias de usuario.
+      </p>
+
+      <div class="stats">
+        <div>
+          Altamente capacitado en mejoras progresivas, sistemas de diseño
+          e ingeniería de interfaces.
+        </div>
+        <div>
+          Más de una década de experiencia construyendo productos para
+          clientes en distintos países.
+        </div>
+      </div>
+    </div>
+
+    <div class="hero-right">
+      <div class="profile-card">
+        <img src="profile.jpg" alt="Foto de perfil">
+      </div>
+    </div>
+  </section>
+
+</body>
+</html>
